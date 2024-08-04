@@ -17,9 +17,9 @@ Technologies Used
 
 Features
 
-- Interactive Chat Interface**: Allows users to type questions and receive answers in a conversational format.
-- Real-time Response Generation**: Leverages the Llama 3.1 8B model to generate responses based on user input.
-- Session Management**: Maintains chat history within the user's session for a seamless conversational experience.
+- Interactive Chat Interface: Allows users to type questions and receive answers in a conversational format.
+- Real-time Response Generation: Leverages the Llama 3.1 8B model to generate responses based on user input.
+- Session Management: Maintains chat history within the user's session for a seamless conversational experience.
 
 
 Usage
